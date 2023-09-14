@@ -1,0 +1,18 @@
+body{
+    background-color: #00FFFF;
+}
+button{
+    width: 55px;
+}
+h1{
+    color: #BA55D3;
+}
+p{
+    font-size: 14pt;
+}
+table{
+    border-collapse: collapse;
+}
+td, th{
+    border: 1px solid black;
+}
